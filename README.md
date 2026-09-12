@@ -17,6 +17,7 @@
 | [**zlaunch**](https://github.com/0xagvz/zlaunch) | Linux binary preloader — compresses executables in RAM and launches them without touching disk | C |
 | [**NES-Emulator**](https://github.com/0xagvz/NES-Emulator) | Nintendo Entertainment System emulator written in C++ | C++ |
 | [**BadApple-NES-NROM**](https://github.com/0xagvz/BadApple-NES-NROM) | Bad Apple!! video playback on Nintendo Entertainment System under strict NROM 32KB constraints (no mapper, no audio) | C |
+| [**Loopfetch**](https://github.com/0xagvz/loopfetch) | Animated fastfetch / neofetch | C++ |
 | [**Chip8-Emulator**](https://github.com/0xagvz/Chip8-Emulator) | Chip-8 emulator! some training before NES emulator | C++ |
 | [**KeepIt**](https://github.com/0xagvz/KeepIt) | Android app to clean your gallery with Tinder-style swipes | JavaScript - React Native |
 | [**SuperTaTeTi**](https://github.com/0xagvz/SuperTaTeTi) | Own game, it's like TicTacToe 2 | JavaScript - React Native |
